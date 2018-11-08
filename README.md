@@ -1,2 +1,1 @@
-# lzhsus.github.io
-lzhsus的博客
+这是我的博客
