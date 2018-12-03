@@ -7,8 +7,8 @@
 
 ##GitHub :star
 
-[https://github.com/lzhsus](https://github.com/lzhsus)
-#兼容问题（页面在不同浏览器中可能显示不同）
+[https://github.com/lzhsus](https://github.com/lzhsus) <br />
+兼容问题（页面在不同浏览器中可能显示不同）
 ==========
 1.兼容性
 ------
